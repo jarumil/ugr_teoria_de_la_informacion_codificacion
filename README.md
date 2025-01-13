@@ -4,4 +4,4 @@ Recuerda que la publicación de estas prácticas se hace con el fin de compartir
 
 Si te ha sido útil mi solución o cualquier otra solución mia, puedes apoyarme con un café para seguir compartiendo conocimientos! :)
 
-<a href="https://www.buymeacoffee.com/josebummer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/jarumil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
